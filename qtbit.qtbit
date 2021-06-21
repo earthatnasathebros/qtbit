@@ -1,0 +1,21 @@
+ Mandatory parameters: demension a b(2.0)
+        Number_states (int) -- number of 0 qtbit (qtbit>=2).  
+          0-diff class a          --00000
+          1-diff class 0	         --00001
+           a- 0                        --00002
+           b-1 	         --00003
+
+        Optional parameters:1
+        encoding (string) -- .qtbit
+            Supported encodings are:
+               'Q> (outcome 'backend (string)  
+               'one_qtbit'
+	write  >>-- data.https://www.google.com/search?q=google+calculator&oq=google+ca&aqs=chrome.2.69i57j0i131i433l5j69i60l2.9759j0j7&sourceid=chrome&ie=UTF-8 
+     
+        qtbit_trials (int) -- number of independent to run.  (Default value :2). 
+     
+         (string) --00000-- 
+            'statevector_simulator'     (default)
+            'qtbit_simulator' 
+	>
+write & intinlizae  
