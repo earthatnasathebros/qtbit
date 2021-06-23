@@ -1,0 +1,13 @@
+master.QTbit0=newint [1];
+master.QTbit1=newint [1];
+void trace.back:combine callback("doublecords")
+QTbit.add eventlister:block.channel.00000
+			    00001
+	                                    00002
+                                                    00003
+channle.style= myrobot.py
+frame.node=path_to:google.var Dat = require('dat')
+
+Dat('/data', function (err, dat) {
+  // use dat
+})
